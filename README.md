@@ -30,7 +30,7 @@ This is a comprehensive real estate project designed to provide users with detai
 ## Installation
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Prince4ku/DreamEstate.git
+    git clone https://github.com/summerm00d/Real-State.git
     ```
 2. **Navigate to the project directory**
     ```bash
